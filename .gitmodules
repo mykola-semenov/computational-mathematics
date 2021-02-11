@@ -4,3 +4,9 @@
 [submodule "third-party/cfd/numerical-mooc"]
 	path = third-party/cfd/numerical-mooc
 	url = https://github.com/numerical-mooc/numerical-mooc.git
+[submodule "traffic-modeling/data/third_party/DCRNN"]
+	path = traffic-modeling/data/third_party/DCRNN
+	url = https://github.com/liyaguang/DCRNN.git
+[submodule "traffic-modeling/data/third_party/traffic_prediction"]
+	path = traffic-modeling/data/third_party/traffic_prediction
+	url = https://github.com/aprbw/traffic_prediction.git
