@@ -1,0 +1,6 @@
+[submodule "third-party/cfd/ru-numerical-mooc"]
+	path = third-party/cfd/ru-numerical-mooc
+	url = https://github.com/ikursakov/ru-numerical-mooc.git
+[submodule "third-party/cfd/numerical-mooc"]
+	path = third-party/cfd/numerical-mooc
+	url = https://github.com/numerical-mooc/numerical-mooc.git
